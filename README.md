@@ -1,7 +1,4 @@
-![React](http://codegrizzly.io/wp-content/uploads/2017/04/react.png "React")
-![Flow](http://codegrizzly.io/wp-content/uploads/2017/04/flow.png "Flow")
-![Webpack](http://codegrizzly.io/wp-content/uploads/2017/04/webpack.png "Webpack")
-![Node](http://codegrizzly.io/wp-content/uploads/2017/04/node.png "Node")
+![Logos](http://codegrizzly.io/wp-content/uploads/2017/04/react-node-express-starter.png "Logos")
 
 ## React + Flow + Webpack + Node + Express Starter
 
