@@ -27,12 +27,16 @@ webpack.config.server.prod.js - a webpack configuration for transpiling the ES6 
 
 #### public
 ```
-The public folder contains the HTML file so you can tweak it, for example, to set the page title. The <script> tag with the compiled code will be added to it automatically during the build process.
+The public folder contains the HTML file so you can tweak it,
+for example, to set the page title.
+The <script> tag with the compiled code will be added to it automatically during the build process.
 ```
 
 #### scripts
 ```
-A collection of scripts for both backend and frontend, each consists of two scripts, one for building (production) and one for simply running (development) the applications.
+A collection of scripts for both backend and frontend,
+each consists of two scripts, one for building (production)
+and one for simply running (development) the applications.
 
 In dev mode, there is no need to transpile the backend since we use babel-node for running.
 ```
