@@ -1,3 +1,8 @@
+![React](http://codegrizzly.io/wp-content/uploads/2017/04/react.png "React")
+![Flow](http://codegrizzly.io/wp-content/uploads/2017/04/flow.png "Flow")
+![Webpack](http://codegrizzly.io/wp-content/uploads/2017/04/webpack.png "Webpack")
+![Node](http://codegrizzly.io/wp-content/uploads/2017/04/node.png "Node")
+
 ## React + Flow + Webpack + Node + Express Starter
 
 A minimal starting template that extends [create-react-app](https://github.com/facebookincubator/create-react-app),
