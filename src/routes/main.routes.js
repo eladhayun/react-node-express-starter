@@ -1,5 +1,5 @@
 // Import node module
-import express from 'express';
+const express = require('express');
 const router = express.Router();
 
 // Arrow functions
@@ -12,4 +12,4 @@ router.get('/version', (req, res) => {
 });
 
 // Exporting an object as the default import for this module
-export default router;
+module.exports = router;

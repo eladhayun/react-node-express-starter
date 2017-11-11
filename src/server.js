@@ -1,9 +1,9 @@
 // Importing node modules
-import express from 'express';
-import path from 'path';
-import config from 'config';
+const express = require('express');
+const path = require('path');
+const config = require('config');
 // Importing source files
-import routes from './routes/main.routes';
+const routes = require('./routes/main.routes');
 // consts
 const app = express();
 const port = config.get('port');
