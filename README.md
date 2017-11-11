@@ -1,5 +1,3 @@
-![Logos](http://codegrizzly.io/wp-content/uploads/2017/04/react-node-express-starter.png "Logos")
-
 ## React + Flow + Webpack + Node + Express Starter
 
 A minimal starting template that extends [create-react-app](https://github.com/facebookincubator/create-react-app),
@@ -24,7 +22,7 @@ In production, both static files and api requests are handled by the node server
 default.json - a place to put common (dev + prod) configuration for the backend.
 production.json - extends default.json with a specific configuration for the backend in production
 development.json - extends default.json with a specific configuration for the backend in development
-webpack.config.server.prod.js - a webpack configuration for transpiling the ES6 node server 
+webpack.config.server.prod.js - a webpack configuration for transpiling the ES6 node server
 ```
 
 #### public
